@@ -16,4 +16,4 @@ We refer to the structure of the model codes of https://github.com/thuml/Time-Se
 
 ## Run the model
 
-Bash the .sh files in the sh_file directory, and a "RESULTS" and "checkpoints" files will be created. Sub-results with the calculation of MSE for the original data, segments of the result plots and the inver-standardized result will be output to the "RESULTS" file
+Bash the .sh files in the **sh_file** directory, and a "**RESULTS**" and "checkpoints" files will be created. Sub-results with the calculation of MSE for the original data, segments of the result plots and the inver-standardized result will be output to the "RESULTS" file.
